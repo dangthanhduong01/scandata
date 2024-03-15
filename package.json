@@ -1,0 +1,19 @@
+{
+  "name": "scandata",
+  "version": "1.0.0",
+  "description": "",
+  "main": "scan.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node test.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "fs": "^0.0.1-security",
+    "jsonwebtoken": "^8.5.1",
+    "request": "^2.88.2",
+    "virustotal-api": "^1.1.7"
+  }
+}
